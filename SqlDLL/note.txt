@@ -1,0 +1,7 @@
+﻿將 
+SqlDLL.dll  
+Microsoft.AspNet.SignalR.Client.dll  
+Newtonsoft.Json.dll
+
+貼到
+C:\Windows\Microsoft.NET\Framework\v4.0.30319
